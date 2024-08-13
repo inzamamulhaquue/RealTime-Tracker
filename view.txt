@@ -1,0 +1,6 @@
+Developed a real-time tracker project with live location updates, user authentication, and data analytics for tracking assets or personnel, ensuring efficient monitoring and management, using Node.js, Express.js, and Socket.io to manage real-time user interactions and geolocation data. Designed a system to display geolocation markers on maps using Leaflet, enhancing user experience for live tracking. Coded real-time geolocation tracking features, enabling multiple users to view and interact with location markers simultaneously.
+Specialized in developing geolocation-driven features, leveraging EJS for dynamic user interfaces. Maintained the backend architecture, optimizing performance for real-time data transmission and geolocation tracking.
+Created APIs to integrate real-time geolocation services with the front-end, ensuring seamless user interaction.
+Implemented a feature to display live geolocation markers as users open the application, enhancing real-time visibility.
+Designed and maintained the server-side infrastructure to support concurrent users with real-time geolocation tracking.
+Specialized in socket programming to enable synchronized real-time interactions across multiple users on the platform.
